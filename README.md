@@ -1,4 +1,5 @@
-TSF-Internship-Task These are the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
+TSF-Internship-Task 
+These are the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
 
 Task # 1 - Improve your LinkedIn Profile
 
@@ -10,7 +11,7 @@ Task # 3 - To Explore Unsupervised Machine Learning From the given ‘Iris’ da
 
 Task 3 dataset- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
 
-Taak # 4 - To Explore Decision Tree Algorithm.For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+Task # 4 - To Explore Decision Tree Algorithm.For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 Task 4 dataset- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
 
